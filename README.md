@@ -1,3 +1,3 @@
 # First repository
 
-Hello, I'am Gábor
+Hello, I'm Gábor
